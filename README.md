@@ -4,8 +4,8 @@ In this project, I utilised SQL to answer queries about the dataset. This helped
 # Overview: 
 The hotel sector relies on data to make educated decisions and improve the visitor experience. During this internship, you will analyse a hotel reservation dataset to understand guest preferences, booking trends, and other factors that affect hotel operations. You will query and analyse the data using SQL, as well as respond to particular dataset-related queries.
 
-# Overall Insights
-1- Guests show a preference for weekday night stays over weekends, this preference indicates an opportunity for the hotel to optimize offerings during weekdays.
+# Overall Insights:
++*Guests show a preference for weekday night stays over weekends, this preference indicates an opportunity for the hotel to optimize offerings during weekdays.
 2- Online market segment is the most popular choice and also online bookings generate the highest average room price.
 3- October is the peak reservation month, while January has the lowest amount of reservations, suggesting seasonal fluctuations in demand.
 4- Families prefer one-night stays on weekends, highlighting a demand for weekend getaways suitable for families.
