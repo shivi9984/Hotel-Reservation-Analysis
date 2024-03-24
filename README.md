@@ -13,5 +13,7 @@ The hotel sector relies on data to make educated decisions and improve the visit
 ## Conclusion:
 This project's data analysis gives useful insights for optimising hotel operations and improving the overall visitor experience. Using these information, the hotel can make more educated decisions to achieve company development and success.
 
+## Presentation Link: https://drive.google.com/file/d/14oWrZTFcx9LYwPh_rR4_Jv2aLBMIVZB6/view?usp=drive_link
+
 
 
